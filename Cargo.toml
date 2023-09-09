@@ -1,0 +1,10 @@
+[package]
+name = "rbrainfuck"
+version = "0.1.0"
+edition = "2021"
+authors = ["vonnoy <fengshichang0129@gmail.com>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# libc = "0.2.147"
